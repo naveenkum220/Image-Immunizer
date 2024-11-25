@@ -1,1 +1,5 @@
+http://localhost:5000/socialapp1
 
+http://localhost:5000/socialapp2
+
+http://localhost:5000/immunizer
